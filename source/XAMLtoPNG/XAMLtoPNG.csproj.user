@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>-Input "G:\MyFiles\CSharp\00_AutoVM\01_IconSet\StartupVM\StartupVM.Canvas.xaml" -XSize 512  -YSize 512 -Output "G:\MyFiles\CSharp_Samples\05_Pattern\XMLSerial\XAML_TestData\XAMLALOT\TangoProjectPng512\"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-Input "C:\Users\Internet\Desktop\XAMLToPNG_Article\data\XAMLToPNG_Sample\\" -Output "C:\Users\Internet\Desktop\XAMLToPNG_Article\data\XAMLToPNG_Sample\\"</StartArguments>
+  </PropertyGroup>
+</Project>
