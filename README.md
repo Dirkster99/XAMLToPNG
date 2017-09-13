@@ -2,6 +2,7 @@
 
 XAMLToPNG is an MS-DOS command Line Tool that supports in its current version the following options:
 
+```
 Usage: XAMLtoPNG
 -XSize <size> - X size in pixels of converted png output image
 -YSize <size> - Y size in pixels of converted png output image
@@ -14,6 +15,7 @@ Usage: XAMLtoPNG
   Target
 
   -CopyInput Copy input file to destionation folder
+```
 
 # More Documentation
 
