@@ -1,3 +1,4 @@
+./.vs
 00_Release/
 01_Nuget/
 debug/
@@ -17,3 +18,5 @@ tmp/
 *.sou
 *.suo
 *.sqlite
+*.ide
+source/.vs/XAMLtoPNG/v15/sqlite3/storage.ide
